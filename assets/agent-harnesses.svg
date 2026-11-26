@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="184" viewBox="0 0 364 184" role="img" aria-labelledby="title">
+  <title id="title">Agent harnesses: tool calls and context replay</title>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101a2a" />
+      <stop offset="1" stop-color="#0b1320" />
+    </linearGradient>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="1" y="8" width="362" height="168" rx="14" fill="url(#card)" stroke="#29394e" />
+    <rect x="23" y="30" width="36" height="36" rx="9" fill="#123139" />
+    <g fill="none" stroke="#5eead4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="32" y="41" width="18" height="13" rx="3" />
+      <path d="M41 37v4m-4 18h8m-4-5v5m-5-12h.1m9 0h.1" />
+    </g>
+    <text x="73" y="53" fill="#e2e8f0" font-size="19" font-weight="650">Agent harnesses</text>
+    <text x="24" y="100" fill="#a8bad0" font-size="16">Tool calls &amp; context replay</text>
+    <text x="24" y="128" fill="#7d95af" font-size="14">Model protocols · runtime behavior</text>
+    <path d="M24 151H56" stroke="#5eead4" stroke-width="2" />
+  </g>
+</svg>

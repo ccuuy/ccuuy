@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="184" viewBox="0 0 364 184" role="img" aria-labelledby="title">
+  <title id="title">Reliable execution: budgets, state, and validation</title>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101a2a" />
+      <stop offset="1" stop-color="#0b1320" />
+    </linearGradient>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="1" y="8" width="362" height="168" rx="14" fill="url(#card)" stroke="#29394e" />
+    <rect x="23" y="30" width="36" height="36" rx="9" fill="#282440" />
+    <g fill="none" stroke="#c4b5fd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m41 38 9 4v7c0 5-9 10-9 10s-9-5-9-10v-7z" />
+      <path d="m37 48 3 3 5-6" />
+    </g>
+    <text x="73" y="53" fill="#e2e8f0" font-size="19" font-weight="650">Reliable execution</text>
+    <text x="24" y="100" fill="#a8bad0" font-size="16">Budgets, state &amp; validation</text>
+    <text x="24" y="128" fill="#7d95af" font-size="14">Regression tests · reproducible fixes</text>
+    <path d="M24 151H56" stroke="#c4b5fd" stroke-width="2" />
+  </g>
+</svg>
